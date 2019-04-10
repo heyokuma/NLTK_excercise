@@ -1,5 +1,6 @@
 # NLTK_excercise
-My solution of NLTK exercise in 2019 Spring.
-Share with someone who wants answers or references.
-This repository is not actively maintained. 
-The NLTK library is constantly changing, as is the NLTK book. So the answers here may be outdated and might not run as expected.
+My solution of NLTK exercise in 2019 Spring.<br>
+Share with someone who wants answers or references.<br>
+This repository is not actively maintained.<br>
+Because NLTK library and NLTK book are constantly changing, answers may be error or outdated. <br>
+Of course, I'm not a teacher or expert, so i am not sure that answers are right. :)
